@@ -41,7 +41,7 @@ resetCount = () => {
           </div>
           <div>
             <button onClick={this.incrementCount}>+1</button>
-            <button onClick={this.resetCount}>reset</button>
+            <button onClick={this.resetCount}>Reset</button>
             <button onClick={this.decrementCount}>-1</button>
           </div>
         </div>
